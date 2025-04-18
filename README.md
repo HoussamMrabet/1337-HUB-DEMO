@@ -26,7 +26,7 @@ Welcome to the **demo version** of **[1337 HUB](https://1337-hub.com)** — a we
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js (App Router)
+- **Framework:** Next.js
 - **Styling:** Tailwind CSS
 - **Auth:** 1337 Intra API (OAuth2)
 - **State Management:** React Query
